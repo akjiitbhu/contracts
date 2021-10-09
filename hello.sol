@@ -1,0 +1,2 @@
+contrac hello{
+}
